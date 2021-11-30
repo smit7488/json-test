@@ -1,0 +1,28 @@
+[
+ {
+   "carrierName": "accendo-insurance-company",
+   "productTypes": [ {
+      "types":   ["final-expense"]}
+   
+    ],
+   "productsAvailable": [ {
+    "cat": ["senior","life"] }
+   ],
+    "states": [ {
+      "state": ["al","ak","az","ar","ca","co","ct","de","dc","fl","ga","hi","id","il","ia","ky","la","me","md","mi","mn","ms","mo","mt","ne","nv","nh","nj","nm","nc","nd","oh","ok","or","ri","sc","sd","tn","tx","ut","vt","va","wa","wv","wi","wy"]}
+    ] },
+  
+    {
+      "carrierName": "aetna",
+      "productTypes": [ {
+         "types":   ["critical-illness", "dental-vision-hearing", "medicare-advantage", "medicare-supplement", "hospital-indemnity", "final-expense"]}
+      
+       ],
+      "productsAvailable": [ {
+       "cat": ["senior","life", "ancillary", "health"] }
+      ],
+       "states": [ {
+         "state": ["al", "az", "ar", "ca", "co", "ct", "de", "dc", "fl", "ga", "id", "il", "in", "ia", "ks", "ky", "la", "me", "md", "ma", "mi", "ms", "mo", "ne", "nv", "nh", "nj", "nm", "ny", "nc", "nd", "oh", "ok", "or", "pa", "ri", "sc", "sd", "tn", "tx", "ut", "va", "wa", "wv", "wi", "wy" ]}
+        ]
+      }
+    ]
